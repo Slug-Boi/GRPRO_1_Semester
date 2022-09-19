@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=HashSetBoolean
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=static\ boolean\ contains(HashSet\ <String>\ list,\ String\ element){\n\ \ \ \ for(String\ i\ \:\ list)\ {\n\ \ \ \ if(i.equals(element))\ {\n\ \ \ \ return\ true;\n\ \ \ \ }\ \n\ \ \ \ }\n\ \ \ \ return\ false;\n}
+numComments=2
