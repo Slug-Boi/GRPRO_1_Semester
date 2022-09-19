@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Dog
+comment1.params=navn\ alder\ hundeRace
+comment1.target=Dog(java.lang.String,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=void\ commandSit()
+comment3.params=
+comment3.target=void\ goForAWalk()
+numComments=4
