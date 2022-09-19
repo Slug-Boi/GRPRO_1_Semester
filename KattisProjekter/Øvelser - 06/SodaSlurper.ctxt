@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SodaSlurper
+comment1.params=total\ cost\ leftover
+comment1.target=int\ buy(int,\ int,\ java.util.ArrayList)
+comment2.params=drank
+comment2.target=int\ total(java.util.ArrayList)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
