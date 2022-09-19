@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LavOgGennemArrayList
+comment1.params=liste
+comment1.target=int\ min(java.util.ArrayList)
+comment2.params=liste
+comment2.target=double\ average(java.util.ArrayList)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

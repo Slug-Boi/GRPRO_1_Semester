@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=MinFunkUpgraded
+comment1.params=a\ b
+comment1.target=int\ min(int,\ int)
+comment2.params=liste
+comment2.target=int\ min(java.util.ArrayList)
+comment3.params=liste
+comment3.target=int\ mini(java.util.ArrayList)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
