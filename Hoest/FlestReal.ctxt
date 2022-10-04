@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FlestReal
+comment1.params=splitNote\ splitMenu\ map
+comment1.target=void\ check(java.lang.String[],\ java.lang.String[],\ java.util.Map)
+comment2.params=map\ splitMenu
+comment2.target=java.util.List\ biggest(java.util.Map,\ java.lang.String[])
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4
