@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=FaceCard
+comment1.params=suit\ face
+comment1.target=FaceCard(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=int\ getValue()
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
