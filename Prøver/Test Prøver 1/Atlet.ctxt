@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Atlet
+comment1.params=navn\ sportsgren\ alder\ pris
+comment1.target=Atlet(java.lang.String,\ java.lang.String,\ int,\ double)
+comment2.params=nyPris
+comment2.target=void\ opdaterPris(double)
+comment3.params=
+comment3.target=double\ getPris()
+comment4.params=
+comment4.target=double\ predSalgspris()
+comment5.params=
+comment5.target=void\ display()
+comment6.params=
+comment6.target=boolean\ isSwimmer()
+numComments=7

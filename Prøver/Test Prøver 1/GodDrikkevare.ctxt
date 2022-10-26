@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=GodDrikkevare
+comment1.params=name
+comment1.target=boolean\ isGoodBeverage(java.lang.String)
+comment2.params=name\ badBeverages
+comment2.target=boolean\ isGoodBeverage(java.lang.String,\ java.util.Set)
+comment3.params=beverages\ badBeverages
+comment3.target=java.util.List\ goodBeverages(java.util.List,\ java.util.Set)
+comment4.params=
+comment4.target=void\ test1()
+comment5.params=
+comment5.target=void\ test2()
+comment6.params=
+comment6.target=java.util.HashMap\ test3()
+comment7.params=
+comment7.target=java.util.HashMap\ getMap()
+comment8.params=scores\ beverages
+comment8.target=void\ printBeverages(java.util.Map,\ java.util.List)
+comment9.params=
+comment9.target=void\ test4()
+numComments=10
