@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=CustomerTrackerTest
+comment1.params=
+comment1.target=void\ setUp()
+comment2.params=
+comment2.target=void\ today_returns35()
+comment3.params=
+comment3.target=void\ avgThisWeek_returns30()
+comment4.params=
+comment4.target=void\ comparedToWeek43()
+comment5.params=
+comment5.target=void\ comparedToWeek47()
+comment6.params=
+comment6.target=void\ tearDown()
+comment6.text=\n\ \ \ \ @Test\n\ \ \ \ public\ void\ comparedToWeek_given0_throwsAnException()\ {\n\ \ \ \ \ \ \ \ //Arrange\n\ \ \ \ \ \ \ \ //Exception\ expected\ \=\ NullPointerException;\n\ \ \ \ \ \ \ \ //Act\n\ \ \ \ \ \ \ \ double\ actual\ \=\ cTracker.comparedToWeek(47);\n\ \ \ \ \ \ \ \ //Assert\n\ \ \ \ \ \ \ \ //assertEquals(expected,\ actual,\ 0.0);\n\ \ \ \ }\n
+numComments=7
