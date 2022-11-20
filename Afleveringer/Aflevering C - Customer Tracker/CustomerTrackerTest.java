@@ -57,12 +57,16 @@ public class CustomerTrackerTest {
     
     @Test
     public void comparedToWeek_given0_throwsAnException() {
-        //Arrange
-        NullPointerException expected;
-        //Act
-        double actual = cTracker.comparedToWeek(47);
-        //Assert
-        assertThrows(NullPointerException, actual);
+        Exception exception = assertThrows(NullPointerException.class, () -> {
+          cTracker.comparedToWeek(0);  
+        });
+    }
+    
+    @Test
+    public void comparedToWeek_given48_throwsAnException() {
+        Exception exception = assertThrows(NullPointerException.class, () -> {
+          cTracker.comparedToWeek(48);  
+        });
     }
     
     @After

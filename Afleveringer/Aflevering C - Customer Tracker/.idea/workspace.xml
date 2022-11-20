@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c4873587-9f08-4996-b799-a015718fd0c9" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/CustomerTracker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerTracker.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerTracker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerTrackerTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerTrackerTest.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CustomerTrackerTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUIView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUIView.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/GUIView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICustomerTracker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICustomerTracker.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ICustomerTracker.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MockDB$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MockDB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MockDB.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MockDB.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.TXT" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TextView.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TextView.ctxt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TextView.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.bluej" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="2HoTZFLuEKGT8iZPrPAtcQtFs4N" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c4873587-9f08-4996-b799-a015718fd0c9" name="Changes" comment="" />
+      <created>1668950491740</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1668950491740</updated>
+      <workItem from="1668950494576" duration="8000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
