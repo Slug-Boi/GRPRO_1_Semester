@@ -20,7 +20,7 @@ public class EngineeringEnglish {
         
         for(String current : list) {
             if(Hash.contains(current.toUpperCase())) {
-                System.out.print(". "); 
+                System.out.print(" ");
             } else {
                 System.out.print(current + " ");
                 Hash.add(current.toUpperCase());
