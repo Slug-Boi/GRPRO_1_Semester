@@ -2,49 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="951353ad-95a3-4011-8aa9-d1baa5c3660a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/src/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/src/ArraySmoothening.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../Afleveringer/Aflevering C - Customer Tracker/package.bluej" beforeDir="false" afterPath="$PROJECT_DIR$/../../Afleveringer/Aflevering C - Customer Tracker/package.bluej" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ABC.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/ABC.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ABC.ctxt" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/ABC.ctxt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ABC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/ABC.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aaah.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Aaah.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aaah.ctxt" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Aaah.ctxt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aaah.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Aaah.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Bijele.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Bijele.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BuildingPyramids.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/BuildingPyramids.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BuildingPyramids.ctxt" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/BuildingPyramids.ctxt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BuildingPyramids.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/BuildingPyramids.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EngineeringEnglish.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/EngineeringEnglish.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Faktor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Faktor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FindingAnA.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/FindingAnA.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FindingAnA.ctxt" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/FindingAnA.ctxt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FindingAnA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/FindingAnA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FlowLayout.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/FlowLayout.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Greetings.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Greetings.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Greetings.ctxt" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Greetings.ctxt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Greetings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Greetings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Homework.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Homework.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JackOLaternJuxta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/JackOLaternJuxta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JumboJavelin.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/JumboJavelin.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JumboJavelin.ctxt" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/JumboJavelin.ctxt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JumboJavelin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/JumboJavelin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LaptopSticker.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/LaptopSticker.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LaptopSticker.ctxt" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/LaptopSticker.ctxt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LaptopSticker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/LaptopSticker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OddEcho.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/OddEcho.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OddEcho.ctxt" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/OddEcho.ctxt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OddEcho.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/OddEcho.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrintedStatues.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/PrintedStatues.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SevenWonders.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/SevenWonders.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SevenWonders.ctxt" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/SevenWonders.ctxt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SevenWonders.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/SevenWonders.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sibice.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/Sibice.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThePlank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/ThePlank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TwentyFourtyEight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/TwentyFourtyEight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aFuriousCocktail.class" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/aFuriousCocktail.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aFuriousCocktail.ctxt" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/aFuriousCocktail.ctxt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/aFuriousCocktail.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/aFuriousCocktail.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.bluej" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/package.bluej" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Open Kattis Opgaver/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Open Kattis Opgaver/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/AlphabetSpam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/src/AlphabetSpam.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,19 +32,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "18",
-    "last_opened_file_path": "/Users/karpe/Documents/ITU Programmering/GitRepos/GRPRO 1. Semester Repo/GRPRO_1_Semester/KattisProjekter/Open Kattis Opgaver",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;18&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/karpe/Documents/ITU Programmering/GitRepos/GRPRO 1. Semester Repo/GRPRO_1_Semester/KattisProjekter/Open Kattis Opgaver&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -98,7 +60,8 @@
       <option name="presentableId" value="Default" />
       <updated>1669022426135</updated>
       <workItem from="1669022427250" duration="10000" />
-      <workItem from="1671813340567" duration="400000" />
+      <workItem from="1671813340567" duration="957000" />
+      <workItem from="1671887903268" duration="3339000" />
     </task>
     <servers />
   </component>
